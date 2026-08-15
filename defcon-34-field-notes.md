@@ -6,9 +6,7 @@ A few sessions I particularly enjoyed and takeaways:
 
 ---
 
-## Minimize Harm, Maximize Defense: How Anthropic Navigates the Offense-Defense Divide
-
-*by Curt Barnard*
+## Minimize Harm, Maximize Defense: How Anthropic Navigates the Offense-Defense Divide by Curt Barnard
 
 Frontier models themselves are difficult to use for security testing out of the box, as they’re specifically trained to follow certain safety behaviors, in both pre and post training, causing it to refuse security testing use cases.
 
@@ -20,9 +18,9 @@ A lot of the work in using models to investigate cybersecurity issues is two-fol
 
 2. Second, reviewing the validity of the AI’s output - is the issue the AI found actually real and important? In my own work, I continuously see this overlooked - actually looking at the data behind the output and validating it; everyone wants the metric, but few want to open the data behind it. It’s very easy to say AI hallucinates, yes the output is not good, but it’s a bit harder to pinpoint patterns and actionable next steps to improve it, and people often seem to lose interest at this step of the work where the findings become real.
 
-Generally, Anthropic over does the safety guardrails, for good reason, they’re on the frontier, their market differentiator is largely their investment into safety just as much as model capability, but that same value can block real safety work. This is an area Anthropic is actively partnering with safety professionals on through Project Glasswing - a coalition where partners get to access Mythos for defensive security work. The speaker recommended this blogpost from Mozilla, one of the involved partners.
+Generally, Anthropic over does the safety guardrails, for good reason, they’re on the frontier, their market differentiator is largely their investment into safety just as much as model capability, but that same value can block real safety work. This is an area Anthropic is actively partnering with safety professionals on through Project Glasswing - a coalition where partners get to access Mythos for defensive security work. The speaker recommended [this blogpost from Mozilla](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/), one of the involved partners.
 
-Another read recommended by the speaker, explains how Anthropic’s cybersecurity constitution is applied as a classifier in the safety pipeline. They maintain and constantly iterate on this constitution which defines model safety principles and behavior, similar to their better known general Claude constitution.
+[Another read recommended by the speaker](https://www.anthropic.com/news/claude-fable-5-mythos-5), explains how Anthropic’s cybersecurity constitution is applied as a classifier in the safety pipeline. They maintain and constantly iterate on this constitution which defines model safety principles and behavior, similar to their better known general Claude constitution.
 
 How do you detect bad actors from the people just investigating, learning? Identity verification is used as a proxy for bad intent, since intent isn’t observable.
 
@@ -30,9 +28,7 @@ Lastly, token budget is also a limitation of AI weaponization. You need tokens t
 
 ---
 
-## AI Pentesting is not a Vibe Check
-
-*by Ads Dawson*
+## AI Pentesting is not a Vibe Check by Ads Dawson
 
 - AI system vulnerabilities are often in the application and embedding layer - not in the model itself. Or at least that’s where it’s frequently overlooked today.
 - To isolate failure points of AI systems, you try to inject instructions in the model's context that gets it to do something it's not supposed to do.
@@ -46,6 +42,7 @@ Lastly, token budget is also a limitation of AI weaponization. You need tokens t
 
 This was my first ctf and I didn’t get to complete all the challenges, largely due to server constraints, wifi jamming by the hackers, and user skill no doubt, but I learned a lot about how CTFs operate, especially by talking to the hosts and participants. At 1am, the night before the CTF was closing, there were still 50 agent runs in queue at a time.
 
+<img width="1500" height="148" alt="defcon-halctf-screenshot" src="https://github.com/user-attachments/assets/846009bb-c2ef-4ac1-8d59-b6feaa124476" />
 Screenshot is borrowed from the HALctf Discord - this is an accurate depiction of what a lot of the participation time looked like. The off peak time was really during dinner hours which in hindsight I didn’t capitalize enough on.
 
 I’m looking forward to participating again next year.
