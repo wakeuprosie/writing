@@ -44,10 +44,7 @@ A few sessions I particularly enjoyed and takeaways:
 This was my first ctf and I didn’t get to complete all the challenges, partially due to server constraints and largely due to user skill, but I learned a lot about how CTFs operate, especially by talking to the hosts and participants. At 1am, the night before the CTF was closing, there were still 50 agent runs in queue at a time.
 
 <img width="1500" height="148" alt="defcon-halctf-screenshot" src="https://github.com/user-attachments/assets/846009bb-c2ef-4ac1-8d59-b6feaa124476" />
-Screenshot is borrowed from the HALctf Discord, but this is an accurate depiction of what a lot of my participation time looked like. The off peak time was really during dinner hours which in hindsight I didn’t capitalize enough on.
-
-I’m looking forward to participating again next year.
-
+Screenshot is borrowed from the HALctf Discord, but this is an accurate depiction of what a lot of my participation time looked like. The off peak time was really during dinner hours which in hindsight I didn’t capitalize enough on. I’m looking forward to participating again next year.
 
 ## Takeaways across sessions - Safety Frameworks vs General AI Frameworks
 
