@@ -1,6 +1,6 @@
 # Defcon 34 Field Notes
 
-These are field notes from attending my first DefCon in Las Vegas on Aug 6-9, 2026. I’d kind of written off conferences since attending a couple in the last few years. No doubt they are useful for networking (well that’s what people generically tell me) but I usually left feeling a bit disappointed by the depth and relevance of the content. DefCon was a nice surprise. For one, it was an area of personal interest and relevant to my work. Without being a security professional, you could find the right level of depth for your background.
+These are field notes from attending my first DefCon in Las Vegas on Aug 6-9, 2026. I’d kind of written off conferences since attending a couple in the last few years. People tend to generically say they are useful for networking but I usually left feeling a bit disappointed by the depth and relevance of the content. DefCon was a nice surprise. For one, it was an area of personal interest and relevant to my work. Without being a security professional, you could find the right level of depth for your background.
 
 A few sessions I particularly enjoyed and takeaways:
 
@@ -41,7 +41,7 @@ A few sessions I particularly enjoyed and takeaways:
 
 ## HALctf
 
-This was my first ctf and I didn’t get to complete all the challenges, largely due to server constraints, wifi jamming by the hackers, and user skill no doubt, but I learned a lot about how CTFs operate, especially by talking to the hosts and participants. At 1am, the night before the CTF was closing, there were still 50 agent runs in queue at a time.
+This was my first ctf and I didn’t get to complete all the challenges, partially due to server constraints and largely due to user skill, but I learned a lot about how CTFs operate, especially by talking to the hosts and participants. At 1am, the night before the CTF was closing, there were still 50 agent runs in queue at a time.
 
 <img width="1500" height="148" alt="defcon-halctf-screenshot" src="https://github.com/user-attachments/assets/846009bb-c2ef-4ac1-8d59-b6feaa124476" />
 Screenshot is borrowed from the HALctf Discord, but this is an accurate depiction of what a lot of my participation time looked like. The off peak time was really during dinner hours which in hindsight I didn’t capitalize enough on.
